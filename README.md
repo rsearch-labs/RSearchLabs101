@@ -2,7 +2,7 @@
 <img src="images/inno.png">
 </p>
 
-<h1><center>RSearch Labs 101</center></h1>
+<h1><center><span style="color:red">rs</span>earch labs 101</center></h1>
 
 <h3><center><span style="color:red">LEARN </span>|<span style="color:green"> RESEARCH</span> |<span style="color:blue"> DEVELOPMENT</span> |<span style="color:#FFC300"> INNOVATIONS</span></center></h3>
 
