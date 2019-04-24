@@ -4,7 +4,7 @@
 
 <h1><center>RSearch Labs 101</center></h1>
 
-This is the main reference page for RSearch Labs. It contains basic information, guidelines, wikis and everything you need to know about the group.
+<h3><center><span style="color:red">LEARN </span>|<span style="color:green"> RESEARCH</span> |<span style="color:blue"> DEVELOPMENT</span> |<span style="color:yellow"> INNOVATIONS</center></center></h1>
 
 # About Us
 
