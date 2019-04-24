@@ -1,16 +1,17 @@
-<h3><center><span style="color:#C70039">learn</span> | <span style="color:green">research</span> | <span style="color:blue">code</span> | <span style="color:#FFC300">innovate</span></center></h3>
+<hr/>
+<h3><center><span style="color:#C70039">learn</span> | <span style="color:green">research</span> | <span style="color:#041064">code</span> | <span style="color:#FFC300">build</span> | <span style="color:#640433">innovate</span> </center></h3>
 
-## <span style="color:green">about</span> us
+## <span style="color:green">about</span> <span style="color:#640433">us</span>
 
 We are a the retail development team from a company in the Philippines. In our quest to continously develop and learn, we conduct our on researches and build projects outside the regular working time. 
 
 Most of the members are active employees but since this is GitHub, any contributor is welcome.
 
-## projects <span style="color:blue">and</span> repos
+## <span style="color:#C70039">projects</span> <span style="color:#041064">and</span> <span style="color:#FFC300">repos</span>
 
 List to follow.
 
-## f<span style="color:#C70039">aq</span>s
+## <span style="color:green">f</span><span style="color:#640433">aq</span><span style="color:green">s</span>
 1. [Why GitHub ?](faqs/1-whygithub.md)
 2. [How to join and contribute ?](faqs/2-getinvolved.md)
 3. [What are the projects?](faqs/3-ourprojects.md)
@@ -37,6 +38,6 @@ This is limited to active employees only. When a project is currently hosted in 
 
 
 
-## <span style="color:blue">contact</span> us
+## <span style="color:#041064">contact</span> <span style="color:#FFC300">us</span>
 Please feel free to ask any of the members your queries.
 
