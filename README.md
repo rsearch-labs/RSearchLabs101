@@ -3,7 +3,7 @@
 
 ## <span style="color:green">about</span> <span style="color:#640433">us</span>
 
-We are a retail services development team from a company in the Philippines. In our quest to continously develop and learn, we conduct our own researches and build projects outside our regular working hours. 
+We are a retail services development team from a company in the Philippines. In our quest to continously develop and learn, we conduct our own researches and build projects outside our regular working hours. Free.
 
 Most of the members are active employees, but since this is GitHub, any contributor is welcome.
 
