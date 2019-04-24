@@ -1,9 +1,3 @@
-<p align="center">
-<img src="images/inno.png">
-</p>
-
-<h1><center><span style="color:#C70039;font-size:35px">rs</span>earch <span style="color:green">labs</span> 101</center></h1>
-
 <h3><center><span style="color:#C70039">learn</span> | <span style="color:green">research</span> | <span style="color:blue">code</span> | <span style="color:#FFC300">innovate</span></center></h3>
 
 ## <span style="color:green">about</span> us
@@ -46,5 +40,3 @@ This is limited to active employees only. When a project is currently hosted in 
 ## <span style="color:blue">contact</span> us
 Please feel free to ask any of the members your queries.
 
-<hr/>
-RSearch Labs © 2019 - Present
