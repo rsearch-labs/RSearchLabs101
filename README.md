@@ -3,9 +3,9 @@
 
 ## <span style="color:green">about</span> <span style="color:#640433">us</span>
 
-We are a the retail development team from a company in the Philippines. In our quest to continously develop and learn, we conduct our on researches and build projects outside the regular working time. 
+We are a retail services development team from a company in the Philippines. In our quest to continously develop and learn, we conduct our own researches and build projects outside our regular working hours. 
 
-Most of the members are active employees but since this is GitHub, any contributor is welcome.
+Most of the members are active employees, but since this is GitHub, any contributor is welcome.
 
 ## <span style="color:#C70039">projects</span> <span style="color:#041064">and</span> <span style="color:#FFC300">repos</span>
 
@@ -33,7 +33,7 @@ The GitHub community is welcome to contribute. We have a group of core maintaine
 6. Submit a pull request. Make sure you include the issue number.
 7. Our group of core contributors will review your pull request.
 
-#### issue a fork request
+#### issuing a request to fork an existing repo
 This is limited to active employees only. When a project is currently hosted in the contrbutors repo and needs to be added to the RSearch Labs repo, the contributors needs to send an email to the core group.
 
 
