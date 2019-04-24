@@ -31,11 +31,11 @@ The GitHub community is welcome to contribute. We have a group of core maintaine
 This is limited to active employees only. When a project is currently hosted in the contrbutors repo and needs to be added to the RSearch Labs repo, the contributors needs to send an email to the core group.
 
 ## FAQs
-1. [Why GitHub ?](faqs/1-WhyGitHub.md)
-2. [How to engage and contribute ?] (faqs/2-GetInvolved.md)
-3. [What are the projects?](faqs/3-OurProjects.md)
-4. [What technology do we use?](faqs/4-DevSupport.md)
-5. [How we do 'stuffs'?](faqs/5-OurWorkflow.md)
+1. [Why GitHub ?](faqs/1-whygithub.md)
+2. [How to join and contribute ?](faqs/1-getinvolved.md)
+3. [What are the projects?](faqs/3-ourprojects.md)
+4. [What technology do we use?](faqs/4-devsupport.md)
+5. [How we do 'stuffs'?](faqs/5-ourworkflow.md)
 
 ## Contact Us
 Please feel free to ask any of the members your queries.
