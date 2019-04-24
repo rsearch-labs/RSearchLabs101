@@ -32,7 +32,7 @@ This is limited to active employees only. When a project is currently hosted in 
 
 ## FAQs
 1. [Why GitHub ?](faqs/1-whygithub.md)
-2. [How to join and contribute ?](faqs/1-getinvolved.md)
+2. [How to join and contribute ?](faqs/2-getinvolved.md)
 3. [What are the projects?](faqs/3-ourprojects.md)
 4. [What technology do we use?](faqs/4-devsupport.md)
 5. [How we do 'stuffs'?](faqs/5-ourworkflow.md)
@@ -40,7 +40,5 @@ This is limited to active employees only. When a project is currently hosted in 
 ## Contact Us
 Please feel free to ask any of the members your queries.
 
-
-<br/>
 <hr/>
 RSearch Labs © 2019 - Present
