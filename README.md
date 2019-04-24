@@ -2,9 +2,9 @@
 <img src="images/inno.png">
 </p>
 
-<h1><center><span style="color:red">rs</span>earch labs 101</center></h1>
+<h1><center><span style="color:#C70039;font-size:35px">rs</span>earch <span style="color:green">labs</span> 101</center></h1>
 
-<h3><center><span style="color:red">LEARN </span>|<span style="color:green"> RESEARCH</span> |<span style="color:blue"> DEVELOPMENT</span> |<span style="color:#FFC300"> INNOVATIONS</span></center></h3>
+<h3><center><span style="color:#C70039">LEARN </span>|<span style="color:green"> RESEARCH</span> |<span style="color:blue"> DEVELOPMENT</span> |<span style="color:#FFC300"> INNOVATIONS</span></center></h3>
 
 # About Us
 
