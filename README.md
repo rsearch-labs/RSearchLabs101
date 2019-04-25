@@ -12,7 +12,6 @@ Most of the members are active employees, but since this is GitHub, any contribu
 |------|-------------|--------|--------|--------------|
 |   List to follow   |             |        |        |              |
 |      |             |        |        |              |
-|      |             |        |        |              |
 
 ## <span style="color:#green">Contributors</span> <span style="color:#640433"> </span> <span style="color:green ">Wanted</span> [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
