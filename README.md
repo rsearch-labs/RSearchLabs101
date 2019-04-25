@@ -27,6 +27,10 @@ Our primary goal is to spark learning, research, and experiments among members t
 - Machine Learning Projects
 - IoT Projects
 
+For a list of possible projects, please visit our "help wanted" section. You can also add items on the list.
+
+[Help Wanted Section](https://github.com/rsx-labs/rsx-labs-primer/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+
 ## <span style="color:#640433">FAQ</span><span style="color:green">s</span>
 1. [Why GitHub ?](faqs/1-whygithub.md)
 2. [How to join and contribute ?](faqs/2-getinvolved.md)
