@@ -1,4 +1,5 @@
 <hr/>
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]]
 
 ## <span style="color:green">About</span> <span style="color:#640433">Us</span> 
 
@@ -10,12 +11,23 @@ Most of the members are active employees, but since this is GitHub, any contribu
 
 List to follow.
 
+## <span style="color:#green">Contributors</span> <span style="color:#640433"> </span> <span style="color:green ">Wanted</span>
+
+Our primary goal is to spark learning, research, and experiments among members to bring about new creative ideas and innovation. The organization aims to provide references and proof-of-concepts that can push a creative idea to a viable and working implementation. As such, we are seeking tutorials, whitepapers, papers, proof of conepts, and projects from anyone. Importantly, we envision that through these efforts it may help us to be more technically proficient on our work. Listed below are some of the technologies we want to explore
+
+- DotNet Projects (Framework, Core, Standard)
+- Native Mobile (IOS / Android)
+- Progressive Web Application Projects
+- Web Projects
+- Cloud-based / Serverless Projects
+- Machine Learning Projects
+- IoT Projects
+
 ## <span style="color:#640433">FAQ</span><span style="color:green">s</span>
 1. [Why GitHub ?](faqs/1-whygithub.md)
 2. [How to join and contribute ?](faqs/2-getinvolved.md)
 3. [What are the projects?](faqs/3-ourprojects.md)
-4. [What technology do we use?](faqs/4-devsupport.md)
-5. [How we do 'stuffs'?](faqs/5-ourworkflow.md)
+4. [How we do 'stuffs'?](faqs/5-ourworkflow.md)
 
 ## <span style="color:#D4AC0D">Contrib<span style="color:green">u</span>te</span> 
 

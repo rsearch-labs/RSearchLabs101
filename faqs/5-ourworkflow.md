@@ -10,4 +10,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed 
 
 
 <hr/>
-RSearch Labs © 2019 - Present
+RSExperimental Labs © 2019 - Present
