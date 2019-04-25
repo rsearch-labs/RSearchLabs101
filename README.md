@@ -2,7 +2,7 @@
 
 ## <span style="color:green">About</span> <span style="color:#640433">Us</span> 
 
-We are a retail services development team from a company in the Philippines. In our quest to continously develop and learn, we conduct our own researches and build projects outside our regular working hours. Free.
+We are a retail services (RS) development team from a company in the Philippines. In our quest to continously develop and learn, we conduct our own researches and build projects outside our regular working hours. Free. 
 
 Most of the members are active employees, but since this is GitHub, any contributor is welcome.
 
@@ -51,7 +51,7 @@ The GitHub community is welcome to contribute. We have a group of core maintaine
 7. Our group of core contributors will review your pull request.
 
 #### <span style="color:#640433">Issuing</span> a request to <span style="color:green">fork</span> an existing repo
-This is limited to active employees only. When a project is currently hosted in the contrbutors repo and needs to be added to the RSExperimental Labs repo, the contributors needs to send an email to the core group.
+This is limited to active employees only. When a project is currently hosted in the contrbutors repo and needs to be added to the RS Experimental Labs repo, the contributors needs to send an email to the core group.
 
 
 ## <span style="color:#041064">Contact</span> <span style="color:#D4AC0D">Us</span>
