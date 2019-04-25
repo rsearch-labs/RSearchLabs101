@@ -16,6 +16,8 @@ Repository. Collaboration. Integration. GitHub.
 
 Showcase your projects and let any developer accross continents, time lines and ethnicity critique, review and provide suggestions and improvements.
 
+Get a chance to try vast list of tools that GitHub support for task related (but not limited) to, project manageent, CD/CI, analytics, and error logging.
+
 ## <span style="color:red">Warning</span>
 
 Like any thing that is made available online, it is open to exploitation. Be careful that company policies and private date are not compromised.
