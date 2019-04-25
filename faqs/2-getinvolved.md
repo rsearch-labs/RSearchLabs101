@@ -2,15 +2,15 @@
 
 Active employees, are encouraged to get involved. The [primer page](https://rsx-labs.github.io/rsx-labs-primer/) list down the guidelines for developers to contribute. If you are new to the platform, worry not. This page is for you.
 
-## New to <span style="color:#C70039">Git</span><span style="color:green">Hub</span>
+## New to <span style="color:#C70039">Git</span><span style="color:green">Hub</span>?
 
 You probably heard of the name in some news or in stackoverflow, but you don't know where to start. All you need to join the rest of the open source warriors in GitHub is a valid email. A personal email is recommended so you have complete control of the account even if you moved out of your company. Please visit GitHub's link below on how to signup.
 
 [How to signup](https://help.github.com/en/articles/signing-up-for-a-new-github-account)
 
-## Join <span style="color:#FFC300">RSExperimetal</span> <span style="color:#640433">Labs</span>
+## Join <span style="color:#FFC300">RSE<span style="color:green">x</span>perimetal</span> <span style="color:#640433">Labs</span>
 
-The title sounds all inclusive but unfortunately it is not. Membership is by invitation. All active employees are encouraged to join and be part of the group. First you need to signup to GitHub (see above). To join, simply email us your GitHub account through the company email and we will send you the invite. Its as easier that printing 'Hello World' on the console.
+The title sounds all inclusive but unfortunately it is not. Membership is by invitation. All active employees are encouraged to join and be part of the group. First you need to signup to GitHub (see above). To join, simply email us your GitHub account through the company email and we will send you the invite. Its easier that printing 'Hello World' on the console.
 
 Everyone can view, fork, and issue a pull request but members are first class contributors. You will be granted additional rights as well as access to private repos.
 
@@ -19,6 +19,18 @@ Everyone can view, fork, and issue a pull request but members are first class co
 There are many ways to contribute on a project. You may not be savy enough to understand the code but you know how it work and is willing to improve it. Three steps : fork, modify, and issue a pull request.
 
 A detailed guideline on how to contrbite is on the [primer page](https://rsx-labs.github.io/rsx-labs-primer/). 
+
+## What are <span style="color:#D4AC0D">our</span> <span style="color:#C70039">projects</span>?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.
+
+## What <span style="color:#640433">technology stack</span> do we <span style="color:green">support</span>?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.
+
+## What do I <span style="color:#FFC300">need</span> to <span style="color:#640433">contribute</span>?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.
 
 <hr/>
 RSExperimental Labs © 2019 - Present
