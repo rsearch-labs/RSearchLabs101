@@ -10,7 +10,7 @@ The online repository opens to a lot of possibilities. It provides a gateway to 
 
 GitHub is just not about codes! You can host a blog, a document, a tutorial, a static web page , a gist (code snippets) for free!
 
-Repository. Collaboration. Integration. GitHub.
+Repository. Collaboration. Integration. Ideas. Innovation. 
 
 ## Oppo<span style="color:#041064">rtuni</span>ties
 
@@ -20,8 +20,8 @@ Get a chance to try vast list of tools that GitHub support for task related (but
 
 ## <span style="color:red">Warning</span>
 
-Like any thing that is made available online, it is open to exploitation. Be careful that company policies and private date are not compromised.
+Like any thing that is made available online, it is open to exploitation. Be careful so that company policies are not violated  and private data are not compromised.
 
 
 <hr/>
-RSExperimental Labs © 2019 - Present
+RS Experimental Labs © 2019 - Present
