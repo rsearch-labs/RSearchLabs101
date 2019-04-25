@@ -1,13 +1,25 @@
-# Why GitHub ?
+# Why <span style="color:#D4AC0D">Git</span><span style="color:green">Hub</span> ?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.
+Simple, because its THE GitHub! It is the universal repository for most open source project. Not just any open source project, projects from the big tech such as Microsoft, Google, Amazon, Mozilla and the likes are all over GitHub. Microsoft abandoned its Codeplex service and acquired GitHub. Its a haven for programmers  and collaborators. Its the Facebook for codes!
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+## What can <span style="color:green">we</span> <span style="color:#FFC300">do</span> in GitHub?
 
-## Opportunities
+Primarily, GitHub is an online repository of codes. But thats the old GitHub, it has grown over the years adding services and integrating to allot of third party tools in the market. From analytics, error reporting, project managment, continuous integration, continuous delivery, devops operation and to vast list of geek magics. Its a virtual swiss knife for an individual ninja, a promising startup or a gigantic enterprise .
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.
+The online repository opens to a lot off possibilities. It provides a gateway to interface to a lot of online services. The dark ages of keeping your source code in a drive is gone so is the concept of keeping the code for your self. As long as it does not violate laws, company policies and doesn't expose private details, going open source is a way to grow and improve your idea. GitHub provide that avenue, supporting both private at public repositories.
+
+GitHub is just not about codes! You can host a blog, a document, a tutorial, a static web page , a gist (code snippets) for free!
+
+Repository. Collaboration. Integration. GitHub.
+
+## Oppo<span style="color:#041064">rtuni</span>ties
+
+Showcase your projects and let any developer accross continents, time lines and ethnicity critique, review and provide suggestions and improvements.
+
+## <span style="color:red">Warning</span>
+
+Like any thing that is made available online, it is open to exploitation. Be careful that company policis and private date are not compromised.
 
 
 <hr/>
-RSearch Labs © 2019 - Present
+RSExperimental Labs © 2019 - Present

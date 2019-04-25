@@ -31,7 +31,6 @@ Our primary goal is to spark learning, research, and experiments among members t
 ## <span style="color:#640433">FAQ</span><span style="color:green">s</span>
 1. [Why GitHub ?](faqs/1-whygithub.md)
 2. [How to join and contribute ?](faqs/2-getinvolved.md)
-3. [How do we do 'stuffs'?](faqs/3-ourworkflow.md)
 
 ## <span style="color:#D4AC0D">Contrib<span style="color:green">u</span>te</span> 
 

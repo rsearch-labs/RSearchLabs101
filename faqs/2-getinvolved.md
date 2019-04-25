@@ -1,6 +1,6 @@
 # How to <span style="color:#D4AC0D">join</span> and <span style="color:green">contribute</span>?
 
-Active employees, are encouraged to get involved. The [primer page](https://rsx-labs.github.io/rsx-labs-primer/) list down the guidelines for developers to contribute. If you are new to the platform, worry not. This page is for you.
+Active employees are encouraged to get involved. The [primer page](https://rsx-labs.github.io/rsx-labs-primer/) list down the guidelines for developers to contribute. If you are new to the platform, worry not. This page is for you.
 
 ## New to <span style="color:#C70039">Git</span><span style="color:green">Hub</span>?
 
@@ -22,15 +22,15 @@ A detailed guideline on how to contrbite is on the [primer page](https://rsx-lab
 
 ## What are <span style="color:#D4AC0D">our</span> <span style="color:#C70039">projects</span>?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.
+Its an open category. While the primer page mentioned about some types of projects, those are just guides. You can submit just about anything, from archaic DOS batch file scripts, to a Linux-y bash scripts, a moder powershell script, VB6 (yes they exist!) applications, modern apps built from modern languages, to edgy applications for AI or machine learning or even experimental apps from the latest experimental languages such as Microsoft's Bosque language.
 
 ## What <span style="color:#640433">technology stack</span> do we <span style="color:green">support</span>?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.
+You name it we stack it! The more diverse , the more combination, the better. To keep the expectations down a bit, yes, the typicall DotNet stack, Python stack, Java Stack, JS-centric stacks are welcome.
 
 ## What do I <span style="color:#FFC300">need</span> to <span style="color:#640433">contribute</span>?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.
+A machine. A GitHub account. Your favorite editor or IDE. An amazing desire to learn and a creative idea!
 
 <hr/>
 RSExperimental Labs © 2019 - Present
