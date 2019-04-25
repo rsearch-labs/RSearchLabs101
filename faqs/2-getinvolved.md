@@ -1,6 +1,6 @@
 # How to <span style="color:#D4AC0D">join</span> and <span style="color:green">contribute</span>?
 
-Active employees are encouraged to get involved. The [primer page](https://rsx-labs.github.io/rsx-labs-primer/) list down the guidelines for developers to contribute. If you are new to the platform, worry not. This page is for you.
+Active employees are encouraged to get involved. The [primer page](https://rsx-labs.github.io) list down the guidelines for developers to contribute. If you are new to the platform, worry not. This page is for you.
 
 ## New to <span style="color:#C70039">Git</span><span style="color:green">Hub</span>?
 
@@ -18,7 +18,7 @@ Everyone can view, fork, and issue a pull request but members are first class co
 
 There are many ways to contribute on a project. You may not be savy enough to understand the code but you know how it work and is willing to improve it. Three steps : fork, modify, and issue a pull request.
 
-A detailed guideline on how to contrbite is on the [primer page](https://rsx-labs.github.io/rsx-labs-primer/). 
+A detailed guideline on how to contrbite is on the [primer page](https://rsx-labs.github.io). 
 
 ## What are <span style="color:#D4AC0D">our</span> <span style="color:#C70039">projects</span>?
 
