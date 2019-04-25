@@ -2,7 +2,7 @@
 
 Simple, because its THE GitHub! It is the universal repository for most open source project. Not just any open source project, projects from the big tech such as Microsoft, Google, Amazon, Mozilla and the likes are all over GitHub. Microsoft abandoned its Codeplex service and acquired GitHub. Its a haven for programmers  and collaborators. Its the Facebook for codes!
 
-## What can <span style="color:green">we</span> <span style="color:#FFC300">do</span> in GitHub?
+## What can <span style="color:green">we</span> <span style="color:#FFC300">do</span> on GitHub?
 
 Primarily, GitHub is an online repository of codes. But thats the old GitHub, it has grown over the years adding services and integrating to a lot of third party tools in the market. From analytics, error reporting, project management, continuous integration, continuous delivery, devops operation and to vast list of geek magics. Its a virtual swiss knife for an individual ninja, a promising startup or a gigantic enterprise .
 
