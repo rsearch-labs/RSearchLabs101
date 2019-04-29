@@ -1,6 +1,6 @@
 # Why <span style="color:#D4AC0D">Git</span><span style="color:green">Hub</span> ?
 
-Simple, because its THE GitHub! It is the universal repository for most open source project. Not just any open source project, projects from the big tech such as Microsoft, Google, Amazon, Mozilla and the likes are all over GitHub. Microsoft abandoned its Codeplex service and acquired GitHub. Its a haven for programmers  and collaborators. Its the Facebook for codes!
+Simple, because its THE GitHub! It is the universal repository for most open source project. Not just any open source project, projects from the big tech such as Microsoft, Google, Amazon, Mozilla and the likes are all over GitHub. Microsoft abandoned its Codeplex service and acquired GitHub for a whoooping $7.5B. Its a haven for programmers  and collaborators. Its the Facebook for codes!
 
 ## What can <span style="color:green">we</span> <span style="color:#FFC300">do</span> on GitHub?
 
